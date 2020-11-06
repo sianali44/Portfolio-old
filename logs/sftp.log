@@ -1,0 +1,246 @@
+Jul 30 09:18:01 10.71.49.0 u93953069 Connection from 10.71.49.0 port 45062 on 212.227.127.25 port 22
+Jul 30 09:18:07 10.71.49.0 u93953069 Accepted password for u93953069 from 10.71.49.0 port 45062 ssh2
+Jul 30 09:18:07 10.71.49.0 u93953069 Starting session: subsystem 'sftp' for u93953069 from 10.71.49.0 port 45062
+Jul 30 09:18:07 10.71.49.0 u93953069 session opened for local user u93953069 from [10.71.49.0]
+Jul 30 11:55:05 10.71.49.0 u93953069 session closed for local user u93953069 from [10.71.49.0]
+Jul 30 11:55:05 10.71.49.0 u93953069 Connection closed by 10.71.49.0
+Jul 30 14:09:14 10.71.49.0 u93953069 Connection from 10.71.49.0 port 20914 on 212.227.127.25 port 22
+Jul 30 14:09:19 10.71.49.0 u93953069 Failed password for u93953069 from 10.71.49.0 port 20914 ssh2
+Jul 30 14:09:59 10.71.49.0 u93953069 Connection from 10.71.49.0 port 21688 on 212.227.127.25 port 22
+Jul 30 14:10:02 10.71.49.0 u93953069 Failed password for u93953069 from 10.71.49.0 port 21688 ssh2
+Jul 30 14:11:00 10.71.49.0 u93953069 Connection from 10.71.49.0 port 42350 on 212.227.127.25 port 22
+Jul 30 14:11:00 10.71.49.0 u93953069 Accepted password for u93953069 from 10.71.49.0 port 42350 ssh2
+Jul 30 14:11:00 10.71.49.0 u93953069 Starting session: subsystem 'sftp' for u93953069 from 10.71.49.0 port 42350
+Jul 30 14:11:00 10.71.49.0 u93953069 session opened for local user u93953069 from [10.71.49.0]
+Jul 30 14:11:09 10.71.49.0 u93953069 Connection from 10.71.49.0 port 53700 on 212.227.127.25 port 22
+Jul 30 14:11:10 10.71.49.0 u93953069 Accepted password for u93953069 from 10.71.49.0 port 53700 ssh2
+Jul 30 14:11:10 10.71.49.0 u93953069 Starting session: subsystem 'sftp' for u93953069 from 10.71.49.0 port 53700
+Jul 30 14:11:10 10.71.49.0 u93953069 session opened for local user u93953069 from [10.71.49.0]
+Jul 30 14:11:10 10.71.49.0 u93953069 open "/index.html" flags READ mode 0666
+Jul 30 14:11:10 10.71.49.0 u93953069 close "/index.html" bytes read 43395 written 0
+Jul 30 14:11:10 10.71.49.0 u93953069 [10.71.49.0|get|0|43395|0|0|0|2f696e6465782e68746d6c|]
+Jul 30 14:12:01 10.71.49.0 u93953069 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Jul 30 14:12:01 10.71.49.0 u93953069 close "/index.html" bytes read 0 written 43730
+Jul 30 14:12:01 10.71.49.0 u93953069 [10.71.49.0|put|0|43730|0|0|0|2f696e6465782e68746d6c|]
+Jul 30 14:13:01 10.71.49.0 u93953069 session closed for local user u93953069 from [10.71.49.0]
+Jul 30 14:13:01 10.71.49.0 u93953069 Connection closed by 10.71.49.0
+Jul 30 15:28:58 10.71.49.0 u93953069 Connection from 10.71.49.0 port 20888 on 212.227.127.25 port 22
+Jul 30 15:28:59 10.71.49.0 u93953069 Accepted password for u93953069 from 10.71.49.0 port 20888 ssh2
+Jul 30 15:28:59 10.71.49.0 u93953069 Starting session: subsystem 'sftp' for u93953069 from 10.71.49.0 port 20888
+Jul 30 15:28:59 10.71.49.0 u93953069 session opened for local user u93953069 from [10.71.49.0]
+Jul 30 15:28:59 10.71.49.0 u93953069 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Jul 30 15:29:00 10.71.49.0 u93953069 close "/index.html" bytes read 0 written 44485
+Jul 30 15:29:00 10.71.49.0 u93953069 [10.71.49.0|put|1|44485|0|0|0|2f696e6465782e68746d6c|]
+Jul 30 15:29:52 10.71.49.0 u93953069 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Jul 30 15:29:52 10.71.49.0 u93953069 close "/index.html" bytes read 0 written 44514
+Jul 30 15:29:52 10.71.49.0 u93953069 [10.71.49.0|put|0|44514|0|0|0|2f696e6465782e68746d6c|]
+Jul 30 15:30:50 10.71.49.0 u93953069 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Jul 30 15:30:50 10.71.49.0 u93953069 close "/index.html" bytes read 0 written 44485
+Jul 30 15:30:50 10.71.49.0 u93953069 [10.71.49.0|put|0|44485|0|0|0|2f696e6465782e68746d6c|]
+Jul 30 15:31:51 10.71.49.0 u93953069 session closed for local user u93953069 from [10.71.49.0]
+Jul 30 15:31:51 10.71.49.0 u93953069 Connection closed by 10.71.49.0
+Jul 30 15:39:19 10.71.49.0 u93953069 Connection from 10.71.49.0 port 42160 on 212.227.127.25 port 22
+Jul 30 15:39:19 10.71.49.0 u93953069 Accepted password for u93953069 from 10.71.49.0 port 42160 ssh2
+Jul 30 15:39:19 10.71.49.0 u93953069 Starting session: subsystem 'sftp' for u93953069 from 10.71.49.0 port 42160
+Jul 30 15:39:19 10.71.49.0 u93953069 session opened for local user u93953069 from [10.71.49.0]
+Jul 30 15:39:19 10.71.49.0 u93953069 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Jul 30 15:39:20 10.71.49.0 u93953069 close "/index.html" bytes read 0 written 44485
+Jul 30 15:39:20 10.71.49.0 u93953069 [10.71.49.0|put|1|44485|0|0|0|2f696e6465782e68746d6c|]
+Jul 30 15:40:20 10.71.49.0 u93953069 session closed for local user u93953069 from [10.71.49.0]
+Jul 30 15:40:20 10.71.49.0 u93953069 Connection closed by 10.71.49.0
+Jul 30 16:59:24 10.71.49.0 u93953069 session closed for local user u93953069 from [10.71.49.0]
+Jul 30 16:59:24 10.71.49.0 u93953069 Connection closed by 10.71.49.0
+Aug  1 16:48:07 10.71.51.0 u93953069 Connection from 10.71.51.0 port 57922 on 212.227.127.25 port 22
+Aug  1 16:48:09 10.71.51.0 u93953069 Accepted password for u93953069 from 10.71.51.0 port 57922 ssh2
+Aug  1 16:48:09 10.71.51.0 u93953069 Starting session: subsystem 'sftp' for u93953069 from 10.71.51.0 port 57922
+Aug  1 16:48:09 10.71.51.0 u93953069 session opened for local user u93953069 from [10.71.51.0]
+Aug  1 16:49:10 10.71.51.0 u93953069 Connection from 10.71.51.0 port 18854 on 212.227.127.25 port 22
+Aug  1 16:49:11 10.71.51.0 u93953069 Accepted password for u93953069 from 10.71.51.0 port 18854 ssh2
+Aug  1 16:49:10 10.71.51.0 u93953069 Connection from 10.71.51.0 port 18856 on 212.227.127.25 port 22
+Aug  1 16:49:11 10.71.51.0 u93953069 Accepted password for u93953069 from 10.71.51.0 port 18856 ssh2
+Aug  1 16:49:11 10.71.51.0 u93953069 Starting session: subsystem 'sftp' for u93953069 from 10.71.51.0 port 18854
+Aug  1 16:49:11 10.71.51.0 u93953069 Starting session: subsystem 'sftp' for u93953069 from 10.71.51.0 port 18856
+Aug  1 16:49:11 10.71.51.0 u93953069 session opened for local user u93953069 from [10.71.51.0]
+Aug  1 16:49:11 10.71.51.0 u93953069 session opened for local user u93953069 from [10.71.51.0]
+Aug  1 16:49:11 10.71.51.0 u93953069 open "/index.html" flags READ mode 0666
+Aug  1 16:49:11 10.71.51.0 u93953069 open "/process.php" flags READ mode 0666
+Aug  1 16:49:12 10.71.51.0 u93953069 close "/process.php" bytes read 556 written 0
+Aug  1 16:49:12 10.71.51.0 u93953069 [10.71.51.0|get|1|556|0|0|0|2f70726f636573732e706870|]
+Aug  1 16:49:12 10.71.51.0 u93953069 close "/index.html" bytes read 44485 written 0
+Aug  1 16:49:12 10.71.51.0 u93953069 [10.71.51.0|get|1|44485|0|0|0|2f696e6465782e68746d6c|]
+Aug  1 16:49:12 10.71.51.0 u93953069 open "/css/style.css" flags READ mode 0666
+Aug  1 16:49:12 10.71.51.0 u93953069 open "/css/bootstrap.min.css" flags READ mode 0666
+Aug  1 16:49:12 10.71.51.0 u93953069 close "/css/style.css" bytes read 15281 written 0
+Aug  1 16:49:12 10.71.51.0 u93953069 [10.71.51.0|get|0|15281|0|0|0|2f6373732f7374796c652e637373|]
+Aug  1 16:49:13 10.71.51.0 u93953069 close "/css/bootstrap.min.css" bytes read 121200 written 0
+Aug  1 16:49:13 10.71.51.0 u93953069 [10.71.51.0|get|1|121200|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Aug  1 16:49:13 10.71.51.0 u93953069 open "/css/aos.css" flags READ mode 0666
+Aug  1 16:49:13 10.71.51.0 u93953069 open "/css/animate.min.css" flags READ mode 0666
+Aug  1 16:49:13 10.71.51.0 u93953069 close "/css/aos.css" bytes read 25983 written 0
+Aug  1 16:49:13 10.71.51.0 u93953069 [10.71.51.0|get|0|25983|0|0|0|2f6373732f616f732e637373|]
+Aug  1 16:49:13 10.71.51.0 u93953069 close "/css/animate.min.css" bytes read 53431 written 0
+Aug  1 16:49:13 10.71.51.0 u93953069 [10.71.51.0|get|0|53431|0|0|0|2f6373732f616e696d6174652e6d696e2e637373|]
+Aug  1 16:49:13 10.71.51.0 u93953069 open "/fonts/atwriter.ttf" flags READ mode 0666
+Aug  1 16:49:14 10.71.51.0 u93953069 open "/fonts/atwriter-webfont.woff2" flags READ mode 0666
+Aug  1 16:49:14 10.71.51.0 u93953069 close "/fonts/atwriter.ttf" bytes read 44128 written 0
+Aug  1 16:49:14 10.71.51.0 u93953069 [10.71.51.0|get|1|44128|0|0|0|2f666f6e74732f61747772697465722e747466|]
+Aug  1 16:49:14 10.71.51.0 u93953069 close "/fonts/atwriter-webfont.woff2" bytes read 30384 written 0
+Aug  1 16:49:14 10.71.51.0 u93953069 [10.71.51.0|get|0|30384|0|0|0|2f666f6e74732f61747772697465722d776562666f6e742e776f666632|]
+Aug  1 16:49:14 10.71.51.0 u93953069 open "/fonts/atwriter-webfont.woff" flags READ mode 0666
+Aug  1 16:49:14 10.71.51.0 u93953069 open "/fonts/atwriter-webfont.ttf" flags READ mode 0666
+Aug  1 16:49:15 10.71.51.0 u93953069 close "/fonts/atwriter-webfont.woff" bytes read 34284 written 0
+Aug  1 16:49:15 10.71.51.0 u93953069 [10.71.51.0|get|1|34284|0|0|0|2f666f6e74732f61747772697465722d776562666f6e742e776f6666|]
+Aug  1 16:49:15 10.71.51.0 u93953069 close "/fonts/atwriter-webfont.ttf" bytes read 49728 written 0
+Aug  1 16:49:15 10.71.51.0 u93953069 [10.71.51.0|get|1|49728|0|0|0|2f666f6e74732f61747772697465722d776562666f6e742e747466|]
+Aug  1 16:49:15 10.71.51.0 u93953069 open "/fonts/atwriter-webfont.svg" flags READ mode 0666
+Aug  1 16:49:15 10.71.51.0 u93953069 open "/fonts/atwriter-webfont.eot" flags READ mode 0666
+Aug  1 16:49:15 10.71.51.0 u93953069 close "/fonts/atwriter-webfont.eot" bytes read 49890 written 0
+Aug  1 16:49:15 10.71.51.0 u93953069 [10.71.51.0|get|0|49890|0|0|0|2f666f6e74732f61747772697465722d776562666f6e742e656f74|]
+Aug  1 16:49:15 10.71.51.0 u93953069 close "/fonts/atwriter-webfont.svg" bytes read 93538 written 0
+Aug  1 16:49:15 10.71.51.0 u93953069 [10.71.51.0|get|0|93538|0|0|0|2f666f6e74732f61747772697465722d776562666f6e742e737667|]
+Aug  1 16:49:16 10.71.51.0 u93953069 open "/img/signatureAL.svg" flags READ mode 0666
+Aug  1 16:49:16 10.71.51.0 u93953069 open "/img/homepage.jpg" flags READ mode 0666
+Aug  1 16:49:16 10.71.51.0 u93953069 close "/img/signatureAL.svg" bytes read 64005 written 0
+Aug  1 16:49:16 10.71.51.0 u93953069 [10.71.51.0|get|0|64005|0|0|0|2f696d672f7369676e6174757265414c2e737667|]
+Aug  1 16:49:16 10.71.51.0 u93953069 open "/img/me.jpg" flags READ mode 0666
+Aug  1 16:49:16 10.71.51.0 u93953069 close "/img/homepage.jpg" bytes read 387489 written 0
+Aug  1 16:49:16 10.71.51.0 u93953069 [10.71.51.0|get|0|387489|0|0|0|2f696d672f686f6d65706167652e6a7067|]
+Aug  1 16:49:17 10.71.51.0 u93953069 open "/img/alicon.ico" flags READ mode 0666
+Aug  1 16:49:17 10.71.51.0 u93953069 close "/img/me.jpg" bytes read 255833 written 0
+Aug  1 16:49:17 10.71.51.0 u93953069 [10.71.51.0|get|1|255833|0|0|0|2f696d672f6d652e6a7067|]
+Aug  1 16:49:17 10.71.51.0 u93953069 close "/img/alicon.ico" bytes read 1150 written 0
+Aug  1 16:49:17 10.71.51.0 u93953069 [10.71.51.0|get|0|1150|0|0|0|2f696d672f616c69636f6e2e69636f|]
+Aug  1 16:49:17 10.71.51.0 u93953069 open "/img/icons/mobile-phone.png" flags READ mode 0666
+Aug  1 16:49:17 10.71.51.0 u93953069 sent status No such file
+Aug  1 16:49:17 10.71.51.0 u93953069 open "/img/icons/black-envelope.png" flags READ mode 0666
+Aug  1 16:49:18 10.71.51.0 u93953069 close "/img/icons/mobile-phone.png" bytes read 628 written 0
+Aug  1 16:49:18 10.71.51.0 u93953069 [10.71.51.0|get|1|628|0|0|0|2f696d672f69636f6e732f6d6f62696c652d70686f6e652e706e67|]
+Aug  1 16:49:18 10.71.51.0 u93953069 close "/img/icons/black-envelope.png" bytes read 937 written 0
+Aug  1 16:49:18 10.71.51.0 u93953069 [10.71.51.0|get|1|937|0|0|0|2f696d672f69636f6e732f626c61636b2d656e76656c6f70652e706e67|]
+Aug  1 16:49:18 10.71.51.0 u93953069 open "/img/icons/linkedin-button-logo.png" flags READ mode 0666
+Aug  1 16:49:18 10.71.51.0 u93953069 close "/img/icons/linkedin-button-logo.png" bytes read 896 written 0
+Aug  1 16:49:18 10.71.51.0 u93953069 [10.71.51.0|get|0|896|0|0|0|2f696d672f69636f6e732f6c696e6b6564696e2d627574746f6e2d6c6f676f2e706e67|]
+Aug  1 16:49:18 10.71.51.0 u93953069 open "/img/portfolio/dessin-colisee.jpg" flags READ mode 0666
+Aug  1 16:49:19 10.71.51.0 u93953069 open "/img/portfolio/carnetrecherches4.jpg" flags READ mode 0666
+Aug  1 16:49:19 10.71.51.0 u93953069 close "/img/portfolio/dessin-colisee.jpg" bytes read 287308 written 0
+Aug  1 16:49:19 10.71.51.0 u93953069 [10.71.51.0|get|1|287308|0|0|0|2f696d672f706f7274666f6c696f2f64657373696e2d636f6c697365652e6a7067|]
+Aug  1 16:49:19 10.71.51.0 u93953069 open "/img/portfolio/duanehanson-mockup.jpg" flags READ mode 0666
+Aug  1 16:49:19 10.71.51.0 u93953069 close "/img/portfolio/carnetrecherches4.jpg" bytes read 299867 written 0
+Aug  1 16:49:19 10.71.51.0 u93953069 [10.71.51.0|get|0|299867|0|0|0|2f696d672f706f7274666f6c696f2f6361726e657472656368657263686573342e6a7067|]
+Aug  1 16:49:20 10.71.51.0 u93953069 open "/img/portfolio/vitrine-gwanni.jpg" flags READ mode 0666
+Aug  1 16:49:20 10.71.51.0 u93953069 close "/img/portfolio/duanehanson-mockup.jpg" bytes read 308766 written 0
+Aug  1 16:49:20 10.71.51.0 u93953069 [10.71.51.0|get|1|308766|0|0|0|2f696d672f706f7274666f6c696f2f6475616e6568616e736f6e2d6d6f636b75702e6a7067|]
+Aug  1 16:49:20 10.71.51.0 u93953069 open "/img/portfolio/vitrine-odt-bdx.jpg" flags READ mode 0666
+Aug  1 16:49:20 10.71.51.0 u93953069 close "/img/portfolio/vitrine-gwanni.jpg" bytes read 329590 written 0
+Aug  1 16:49:20 10.71.51.0 u93953069 [10.71.51.0|get|0|329590|0|0|0|2f696d672f706f7274666f6c696f2f76697472696e652d6777616e6e692e6a7067|]
+Aug  1 16:49:21 10.71.51.0 u93953069 open "/img/portfolio/urbanvoice-logo.jpg" flags READ mode 0666
+Aug  1 16:49:21 10.71.51.0 u93953069 close "/img/portfolio/vitrine-odt-bdx.jpg" bytes read 298701 written 0
+Aug  1 16:49:21 10.71.51.0 u93953069 [10.71.51.0|get|1|298701|0|0|0|2f696d672f706f7274666f6c696f2f76697472696e652d6f64742d6264782e6a7067|]
+Aug  1 16:49:21 10.71.51.0 u93953069 open "/img/portfolio/Mockup.jpg" flags READ mode 0666
+Aug  1 16:49:21 10.71.51.0 u93953069 close "/img/portfolio/urbanvoice-logo.jpg" bytes read 219823 written 0
+Aug  1 16:49:21 10.71.51.0 u93953069 [10.71.51.0|get|0|219823|0|0|0|2f696d672f706f7274666f6c696f2f757262616e766f6963652d6c6f676f2e6a7067|]
+Aug  1 16:49:21 10.71.51.0 u93953069 open "/img/portfolio/logoVikings-DKTPornic.jpg" flags READ mode 0666
+Aug  1 16:49:22 10.71.51.0 u93953069 close "/img/portfolio/Mockup.jpg" bytes read 462645 written 0
+Aug  1 16:49:22 10.71.51.0 u93953069 [10.71.51.0|get|1|462645|0|0|0|2f696d672f706f7274666f6c696f2f4d6f636b75702e6a7067|]
+Aug  1 16:49:22 10.71.51.0 u93953069 open "/img/portfolio/logoJPM.jpg" flags READ mode 0666
+Aug  1 16:49:22 10.71.51.0 u93953069 close "/img/portfolio/logoVikings-DKTPornic.jpg" bytes read 554357 written 0
+Aug  1 16:49:22 10.71.51.0 u93953069 [10.71.51.0|get|1|554357|0|0|0|2f696d672f706f7274666f6c696f2f6c6f676f56696b696e67732d444b54506f726e69632e6a7067|]
+Aug  1 16:49:22 10.71.51.0 u93953069 close "/img/portfolio/logoJPM.jpg" bytes read 66620 written 0
+Aug  1 16:49:22 10.71.51.0 u93953069 [10.71.51.0|get|0|66620|0|0|0|2f696d672f706f7274666f6c696f2f6c6f676f4a504d2e6a7067|]
+Aug  1 16:49:22 10.71.51.0 u93953069 open "/img/portfolio/JPMmockup.jpg" flags READ mode 0666
+Aug  1 16:49:23 10.71.51.0 u93953069 open "/img/portfolio/JPMarchi-cartevisite.png" flags READ mode 0666
+Aug  1 16:49:23 10.71.51.0 u93953069 close "/img/portfolio/JPMmockup.jpg" bytes read 121081 written 0
+Aug  1 16:49:23 10.71.51.0 u93953069 [10.71.51.0|get|1|121081|0|0|0|2f696d672f706f7274666f6c696f2f4a504d6d6f636b75702e6a7067|]
+Aug  1 16:49:23 10.71.51.0 u93953069 close "/img/portfolio/JPMarchi-cartevisite.png" bytes read 30989 written 0
+Aug  1 16:49:23 10.71.51.0 u93953069 [10.71.51.0|get|0|30989|0|0|0|2f696d672f706f7274666f6c696f2f4a504d61726368692d63617274657669736974652e706e67|]
+Aug  1 16:49:23 10.71.51.0 u93953069 open "/img/portfolio/coccumdesign_3d.jpg" flags READ mode 0666
+Aug  1 16:49:23 10.71.51.0 u93953069 open "/img/portfolio/brindappetit-flyerouverture.jpg" flags READ mode 0666
+Aug  1 16:49:24 10.71.51.0 u93953069 close "/img/portfolio/brindappetit-flyerouverture.jpg" bytes read 339827 written 0
+Aug  1 16:49:24 10.71.51.0 u93953069 [10.71.51.0|get|1|339827|0|0|0|2f696d672f706f7274666f6c696f2f6272696e64617070657469742d666c7965726f75766572747572652e6a7067|]
+Aug  1 16:49:24 10.71.51.0 u93953069 close "/img/portfolio/coccumdesign_3d.jpg" bytes read 463154 written 0
+Aug  1 16:49:24 10.71.51.0 u93953069 [10.71.51.0|get|1|463154|0|0|0|2f696d672f706f7274666f6c696f2f636f6363756d64657369676e5f33642e6a7067|]
+Aug  1 16:49:24 10.71.51.0 u93953069 open "/img/portfolio/Arton-boxin.jpg" flags READ mode 0666
+Aug  1 16:49:24 10.71.51.0 u93953069 open "/ionicons/css/._ionicons.min.css" flags READ mode 0666
+Aug  1 16:49:25 10.71.51.0 u93953069 close "/img/portfolio/Arton-boxin.jpg" bytes read 192162 written 0
+Aug  1 16:49:25 10.71.51.0 u93953069 [10.71.51.0|get|1|192162|0|0|0|2f696d672f706f7274666f6c696f2f4172746f6e2d626f78696e2e6a7067|]
+Aug  1 16:49:25 10.71.51.0 u93953069 close "/ionicons/css/._ionicons.min.css" bytes read 4096 written 0
+Aug  1 16:49:25 10.71.51.0 u93953069 [10.71.51.0|get|1|4096|0|0|0|2f696f6e69636f6e732f6373732f2e5f696f6e69636f6e732e6d696e2e637373|]
+Aug  1 16:49:25 10.71.51.0 u93953069 open "/ionicons/css/._.DS_Store" flags READ mode 0666
+Aug  1 16:49:25 10.71.51.0 u93953069 open "/ionicons/css/ionicons.min.css" flags READ mode 0666
+Aug  1 16:49:25 10.71.51.0 u93953069 close "/ionicons/css/._.DS_Store" bytes read 4096 written 0
+Aug  1 16:49:25 10.71.51.0 u93953069 [10.71.51.0|get|0|4096|0|0|0|2f696f6e69636f6e732f6373732f2e5f2e44535f53746f7265|]
+Aug  1 16:49:25 10.71.51.0 u93953069 close "/ionicons/css/ionicons.min.css" bytes read 51284 written 0
+Aug  1 16:49:25 10.71.51.0 u93953069 [10.71.51.0|get|0|51284|0|0|0|2f696f6e69636f6e732f6373732f696f6e69636f6e732e6d696e2e637373|]
+Aug  1 16:49:26 10.71.51.0 u93953069 open "/ionicons/css/.DS_Store" flags READ mode 0666
+Aug  1 16:49:26 10.71.51.0 u93953069 open "/ionicons/fonts/._ionicons.woff" flags READ mode 0666
+Aug  1 16:49:26 10.71.51.0 u93953069 close "/ionicons/css/.DS_Store" bytes read 6148 written 0
+Aug  1 16:49:26 10.71.51.0 u93953069 [10.71.51.0|get|0|6148|0|0|0|2f696f6e69636f6e732f6373732f2e44535f53746f7265|]
+Aug  1 16:49:26 10.71.51.0 u93953069 close "/ionicons/fonts/._ionicons.woff" bytes read 4096 written 0
+Aug  1 16:49:26 10.71.51.0 u93953069 [10.71.51.0|get|0|4096|0|0|0|2f696f6e69636f6e732f666f6e74732f2e5f696f6e69636f6e732e776f6666|]
+Aug  1 16:49:26 10.71.51.0 u93953069 open "/ionicons/fonts/._ionicons.ttf" flags READ mode 0666
+Aug  1 16:49:26 10.71.51.0 u93953069 open "/ionicons/fonts/ionicons.woff" flags READ mode 0666
+Aug  1 16:49:27 10.71.51.0 u93953069 close "/ionicons/fonts/._ionicons.ttf" bytes read 4096 written 0
+Aug  1 16:49:27 10.71.51.0 u93953069 [10.71.51.0|get|1|4096|0|0|0|2f696f6e69636f6e732f666f6e74732f2e5f696f6e69636f6e732e747466|]
+Aug  1 16:49:27 10.71.51.0 u93953069 close "/ionicons/fonts/ionicons.woff" bytes read 67904 written 0
+Aug  1 16:49:27 10.71.51.0 u93953069 [10.71.51.0|get|1|67904|0|0|0|2f696f6e69636f6e732f666f6e74732f696f6e69636f6e732e776f6666|]
+Aug  1 16:49:27 10.71.51.0 u93953069 open "/ionicons/fonts/ionicons.ttf" flags READ mode 0666
+Aug  1 16:49:27 10.71.51.0 u93953069 open "/ionicons/fonts/._ionicons.svg" flags READ mode 0666
+Aug  1 16:49:28 10.71.51.0 u93953069 close "/ionicons/fonts/._ionicons.svg" bytes read 4096 written 0
+Aug  1 16:49:28 10.71.51.0 u93953069 [10.71.51.0|get|1|4096|0|0|0|2f696f6e69636f6e732f666f6e74732f2e5f696f6e69636f6e732e737667|]
+Aug  1 16:49:28 10.71.51.0 u93953069 close "/ionicons/fonts/ionicons.ttf" bytes read 188508 written 0
+Aug  1 16:49:28 10.71.51.0 u93953069 [10.71.51.0|get|1|188508|0|0|0|2f696f6e69636f6e732f666f6e74732f696f6e69636f6e732e747466|]
+Aug  1 16:49:28 10.71.51.0 u93953069 open "/ionicons/fonts/ionicons.svg" flags READ mode 0666
+Aug  1 16:49:28 10.71.51.0 u93953069 open "/ionicons/fonts/._ionicons.eot" flags READ mode 0666
+Aug  1 16:49:28 10.71.51.0 u93953069 close "/ionicons/fonts/._ionicons.eot" bytes read 4096 written 0
+Aug  1 16:49:28 10.71.51.0 u93953069 [10.71.51.0|get|0|4096|0|0|0|2f696f6e69636f6e732f666f6e74732f2e5f696f6e69636f6e732e656f74|]
+Aug  1 16:49:28 10.71.51.0 u93953069 open "/ionicons/fonts/ionicons.eot" flags READ mode 0666
+Aug  1 16:49:28 10.71.51.0 u93953069 close "/ionicons/fonts/ionicons.svg" bytes read 333834 written 0
+Aug  1 16:49:28 10.71.51.0 u93953069 [10.71.51.0|get|0|333834|0|0|0|2f696f6e69636f6e732f666f6e74732f696f6e69636f6e732e737667|]
+Aug  1 16:49:29 10.71.51.0 u93953069 open "/ionicons/fonts/._.DS_Store" flags READ mode 0666
+Aug  1 16:49:29 10.71.51.0 u93953069 close "/ionicons/fonts/ionicons.eot" bytes read 120724 written 0
+Aug  1 16:49:29 10.71.51.0 u93953069 [10.71.51.0|get|1|120724|0|0|0|2f696f6e69636f6e732f666f6e74732f696f6e69636f6e732e656f74|]
+Aug  1 16:49:29 10.71.51.0 u93953069 close "/ionicons/fonts/._.DS_Store" bytes read 4096 written 0
+Aug  1 16:49:29 10.71.51.0 u93953069 [10.71.51.0|get|0|4096|0|0|0|2f696f6e69636f6e732f666f6e74732f2e5f2e44535f53746f7265|]
+Aug  1 16:49:29 10.71.51.0 u93953069 open "/ionicons/fonts/.DS_Store" flags READ mode 0666
+Aug  1 16:49:29 10.71.51.0 u93953069 close "/ionicons/fonts/.DS_Store" bytes read 6147 written 0
+Aug  1 16:49:29 10.71.51.0 u93953069 [10.71.51.0|get|0|6147|0|0|0|2f696f6e69636f6e732f666f6e74732f2e44535f53746f7265|]
+Aug  1 16:49:29 10.71.51.0 u93953069 open "/js/plugins.js" flags READ mode 0666
+Aug  1 16:49:30 10.71.51.0 u93953069 close "/js/plugins.js" bytes read 57387 written 0
+Aug  1 16:49:30 10.71.51.0 u93953069 [10.71.51.0|get|1|57387|0|0|0|2f6a732f706c7567696e732e6a73|]
+Aug  1 16:49:30 10.71.51.0 u93953069 open "/js/jquery.validate.min.js" flags READ mode 0666
+Aug  1 16:49:30 10.71.51.0 u93953069 open "/js/jquery.stellar.min.js" flags READ mode 0666
+Aug  1 16:49:30 10.71.51.0 u93953069 close "/js/jquery.validate.min.js" bytes read 21068 written 0
+Aug  1 16:49:30 10.71.51.0 u93953069 [10.71.51.0|get|0|21068|0|0|0|2f6a732f6a71756572792e76616c69646174652e6d696e2e6a73|]
+Aug  1 16:49:30 10.71.51.0 u93953069 close "/js/jquery.stellar.min.js" bytes read 12597 written 0
+Aug  1 16:49:30 10.71.51.0 u93953069 [10.71.51.0|get|0|12597|0|0|0|2f6a732f6a71756572792e7374656c6c61722e6d696e2e6a73|]
+Aug  1 16:49:30 10.71.51.0 u93953069 open "/js/jquery.js" flags READ mode 0666
+Aug  1 16:49:30 10.71.51.0 u93953069 open "/js/jquery.form.js" flags READ mode 0666
+Aug  1 16:49:31 10.71.51.0 u93953069 close "/js/jquery.js" bytes read 85659 written 0
+Aug  1 16:49:31 10.71.51.0 u93953069 [10.71.51.0|get|1|85659|0|0|0|2f6a732f6a71756572792e6a73|]
+Aug  1 16:49:31 10.71.51.0 u93953069 close "/js/jquery.form.js" bytes read 41094 written 0
+Aug  1 16:49:31 10.71.51.0 u93953069 [10.71.51.0|get|1|41094|0|0|0|2f6a732f6a71756572792e666f726d2e6a73|]
+Aug  1 16:49:31 10.71.51.0 u93953069 open "/js/custom.js" flags READ mode 0666
+Aug  1 16:49:31 10.71.51.0 u93953069 open "/js/bootstrap.min.js" flags READ mode 0666
+Aug  1 16:49:31 10.71.51.0 u93953069 close "/js/custom.js" bytes read 5526 written 0
+Aug  1 16:49:31 10.71.51.0 u93953069 [10.71.51.0|get|0|5526|0|0|0|2f6a732f637573746f6d2e6a73|]
+Aug  1 16:49:31 10.71.51.0 u93953069 close "/js/bootstrap.min.js" bytes read 37045 written 0
+Aug  1 16:49:31 10.71.51.0 u93953069 [10.71.51.0|get|0|37045|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Aug  1 16:49:32 10.71.51.0 u93953069 open "/js/aos.js" flags READ mode 0666
+Aug  1 16:49:32 10.71.51.0 u93953069 open "/js/animatedModal.min.js" flags READ mode 0666
+Aug  1 16:49:32 10.71.51.0 u93953069 close "/js/aos.js" bytes read 12368 written 0
+Aug  1 16:49:32 10.71.51.0 u93953069 [10.71.51.0|get|0|12368|0|0|0|2f6a732f616f732e6a73|]
+Aug  1 16:49:32 10.71.51.0 u93953069 open "/js/animatedModal.js" flags READ mode 0666
+Aug  1 16:49:32 10.71.51.0 u93953069 close "/js/animatedModal.min.js" bytes read 1858 written 0
+Aug  1 16:49:32 10.71.51.0 u93953069 [10.71.51.0|get|0|1858|0|0|0|2f6a732f616e696d617465644d6f64616c2e6d696e2e6a73|]
+Aug  1 16:49:32 10.71.51.0 u93953069 close "/js/animatedModal.js" bytes read 4049 written 0
+Aug  1 16:49:32 10.71.51.0 u93953069 [10.71.51.0|get|0|4049|0|0|0|2f6a732f616e696d617465644d6f64616c2e6a73|]
+Aug  1 16:49:33 10.71.51.0 u93953069 open "/logs/access.log.31.3" flags READ mode 0666
+Aug  1 16:49:33 10.71.51.0 u93953069 open "/logs/access.log.31.2.gz" flags READ mode 0666
+Aug  1 16:49:33 10.71.51.0 u93953069 close "/logs/access.log.31.3" bytes read 3547 written 0
+Aug  1 16:49:33 10.71.51.0 u93953069 [10.71.51.0|get|0|3547|0|0|0|2f6c6f67732f6163636573732e6c6f672e33312e33|]
+Aug  1 16:49:33 10.71.51.0 u93953069 open "/logs/access.log.31.1.gz" flags READ mode 0666
+Aug  1 16:49:33 10.71.51.0 u93953069 close "/logs/access.log.31.2.gz" bytes read 263 written 0
+Aug  1 16:49:33 10.71.51.0 u93953069 [10.71.51.0|get|0|263|0|0|0|2f6c6f67732f6163636573732e6c6f672e33312e322e677a|]
+Aug  1 16:49:33 10.71.51.0 u93953069 open "/logs/sftp.log" flags READ mode 0666
+Aug  1 16:49:33 10.71.51.0 u93953069 close "/logs/access.log.31.1.gz" bytes read 3895 written 0
+Aug  1 16:49:33 10.71.51.0 u93953069 [10.71.51.0|get|0|3895|0|0|0|2f6c6f67732f6163636573732e6c6f672e33312e312e677a|]
